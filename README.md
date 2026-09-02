@@ -3,6 +3,9 @@
 > **Undergraduate Research Portfolio**  
 > Isaac Sim 기반 무인자율지게차 물류환경 구축 및 Pallet Property Handling 실험 정리
 
+📄 **Paper**: [합성 데이터를 활용한 물류 환경 객체 탐지 모델 학습](https://github.com/happious/isaac-sim-forklift/blob/main/docs/%ED%95%A9%EC%84%B1%20%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%A5%BC%20%ED%99%9C%EC%9A%A9%ED%95%9C%20%EB%AC%BC%EB%A5%98%20%ED%99%98%EA%B2%BD%20%EA%B0%9D%EC%B2%B4%20%ED%83%90%EC%A7%80%20%EB%AA%A8%EB%8D%B8%20%ED%95%99%EC%8A%B5.pdf)  
+🏆 **KRoC 2025 · AFCV 우수논문상**
+
 <p align="center">
   <img src="assets/warehouse_environment.png" width="820" alt="Isaac Sim warehouse environment"/>
 </p>
@@ -10,9 +13,6 @@
 ## 📌 Overview
 
 본 프로젝트는 **Isaac Sim 환경에서 무인자율지게차의 팔레트 인식 및 적재·하역 자동화 시스템을 검증**하기 위한 학부연구 프로젝트입니다.
-
-> 📄 **Paper**: [합성 데이터를 활용한 물류 환경 객체 탐지 모델 학습](docs/%ED%95%A9%EC%84%B1%20%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%A5%BC%20%ED%99%9C%EC%9A%A9%ED%95%9C%20%EB%AC%BC%EB%A5%98%20%ED%99%98%EA%B2%BD%20%EA%B0%9D%EC%B2%B4%20%ED%83%90%EC%A7%80%20%EB%AA%A8%EB%8D%B8%20%ED%95%99%EC%8A%B5.pdf)  
-> 🏆 **KRoC 2025 · AFCV 우수논문상**
 
 
 연구 과정에서 제가 담당한 부분은 다음과 같습니다.
@@ -223,6 +223,12 @@ Object Detection Training / Evaluation
 ```
 
 ---
+
+## 📄 Paper & Award
+
+- KRoC 2025 논문 발표
+- AFCV 우수논문상 수상
+- [논문 보기](https://github.com/happious/isaac-sim-forklift/blob/main/docs/%ED%95%A9%EC%84%B1%20%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%A5%BC%20%ED%99%9C%EC%9A%A9%ED%95%9C%20%EB%AC%BC%EB%A5%98%20%ED%99%98%EA%B2%BD%20%EA%B0%9D%EC%B2%B4%20%ED%83%90%EC%A7%80%20%EB%AA%A8%EB%8D%B8%20%ED%95%99%EC%8A%B5.pdf)
 
 ## 🛠 Tech Stack
 
