@@ -7,7 +7,7 @@
 🏆 **KRoC 2025 · AFCV 우수논문상**
 
 <p align="center">
-  <img src="assets/warehouse_environment.png" width="820" alt="Isaac Sim warehouse environment"/>
+  <img src="assets/move_forklift.gif" width="820" alt="Isaac Sim warehouse environment"/>
 </p>
 
 ## 📌 Overview
