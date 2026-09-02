@@ -1,0 +1,17 @@
+# Isaac Sim / Omniverse
+__pycache__/
+*.pyc
+.cache/
+logs/
+
+# Generated outputs
+_output/
+output/
+outputs/
+renders/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
