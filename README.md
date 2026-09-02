@@ -41,9 +41,20 @@ Isaac Sim에서 Warehouse, Forklift, Pallet을 배치하고 센서 및 제어 �
 - RGB / Depth ROS Topic Publish
 - Keyboard 기반 Forklift 주행 및 Lift 제어
 
-<p align="center">
-  <img src="assets/forklift_sensor_environment.png" width="760" alt="Forklift sensor environment"/>
-</p>
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <img src="assets/forklift_sensor_environment.png" width="100%" alt="Forklift front sensor setup"/>
+      <br/>
+      <b>Front Sensor Setup</b>
+    </td>
+    <td align="center" width="50%">
+      <img src="assets/senser_back.png" width="100%" alt="Forklift rear sensor setup"/>
+      <br/>
+      <b>Rear Sensor Setup</b>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -160,6 +171,7 @@ isaac-sim-forklift-portfolio/
 └── assets/
     ├── warehouse_environment.png
     ├── forklift_sensor_environment.png
+    ├── senser_back.png
     ├── pallet_variant_01.png
     ├── pallet_variant_02.png
     ├── pallet_variant_03.png
