@@ -4,7 +4,7 @@
 > Isaac Sim 기반 무인자율지게차 물류환경 구축 및 Pallet Property Handling 실험 정리
 
 <p align="center">
-  <img src="assets/warehouse_environment.png" width="820" alt="Isaac Sim warehouse environment"/>
+  <img src="assets/move_forklift.gif" width="820" alt="Isaac Sim warehouse environment"/>
 </p>
 
 ## 📌 Overview
